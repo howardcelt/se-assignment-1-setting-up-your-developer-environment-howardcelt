@@ -1,0 +1,121 @@
+\\WINDOW 10 INSTALLATION
+
+I Check your device meets the Windows 10 system requirements. ...
+I Create USB installation media.
+I Run the installer tool.
+I Used installation media
+I Change your computer's boot order.
+I Restart your device.
+I Complete the installation
+
+\\VISUAL STUDIO INSTASLLATION
+
+I Download and install VS Code.
+I Create a new file.
+I See an overview of the user interface.
+I Install support for your favorite programming language.
+I Change your keyboard shortcuts and easily migrate from other editors using keymap extensions.
+I Customize my editor with themes.
+
+\\INSTALLATION OF GITHUB DESKTOP AND CREATION OF GITHUB ACCOUNT
+
+I Creating an account. To sign up for an account on GitHub.com, navigate to https://github.com/ and follow the prompts.
+I Choosed my GitHub product.
+I Verifying my email address.
+I Configuring two-factor authentication.
+I Viewing my GitHub profile and contribution graph.
+
+*CREATING REPOSITORY
+In the upper-right corner of any page, select , then click New repository.
+Type a short, memorable name for your repository. 
+Optionally, add a description of your repository.
+Choose a repository visibility.
+Select Initialize this repository with a README.
+Click Create repository.
+
+A REPO I CREATED FOR THE WORK SPACE OF MY POWER LEARN PROJECTS
+https://github.com/howardcelt/mypowerlearn-work.git
+
+*OPENING OF GITHUB IN VS CODE
+
+Install the GitHub Codespaces extension in VS Code and sign in with your GitHub account.
+Run the Codespaces: Create New Codespace command.
+Select the repository and branch you want to open. VS Code opens a new window, which is connected to the codespace
+
+
+
+\\INSTALLATION OF PYTHON
+
+Step 1: Check  System
+Before you begin, check if Python is already installed on your computer. Open your command prompt (Windows) or terminal (macOS and Linux) and type the following command:
+bashCopy code
+python --version
+If Python is installed, it will display the version number (e.g., Python 3.9.1). If it's not installed.
+
+Step 2: Download Python
+Visit the official Python website at python.org. You'll find the latest Python version available for download.
+
+Step 3: Choose the Right Version
+Python 3
+
+Step 4: Download the Installer
+Click on the download link to get the Python installer for your operating system (Windows, macOS, or Linux). For Windows, i'll see two options: 32-bit and 64-bit. Choose the one that matches your system.
+
+Step 5: Run the Installer
+After downloading, locate the installer file and run it. Follow the installation wizard's instructions. Be sure to check the box that says "Add Python X.X to PATH" during installation (replace "X.X" with the version number you downloaded). This is essential for easy command-line access.
+
+Step 6: Verify the Installation
+Once the installation is complete, open your command prompt or terminal again and run:
+bashCopy code
+python --version
+You should see the installed Python version.
+
+Step 7: Install a Code Editor (Optional)
+While Python includes the IDLE development environment, many developers prefer using code editors like Visual Studio Code, PyCharm, or Jupyter Notebook for a more robust coding experience. Download and install a code editor of your choice.
+
+Step 8: Write Your First Python Code
+Open your code editor and create a new Python file with the ".py" extension. For example, "hello.py."
+pythonCopy code
+print("Hello, World!")
+Save the file and run it from your code editor. You'll see "Hello, World!" printed to the console.
+
+\\INSTALLATION OF MYSQL
+
+Install MySQL
+After downloading, unzip it, and double click the MSI installer .exe file.
+
+Then follow the steps below:
+
+1. "Choosing a Setup Type" screen: Choose "Full" setup type. This installs all MySQL products and features. Then click the "Next" button to continue.
+
+2. "Check Requirements" screen: The installer checks if your pc has the requirements needed. If there is some failing requirements, click on each item to try to resolve them by clicking on the Execute button that will install all requirements automatically. Click "Next".
+
+3. "Installation" screen: See what products that will be installed. Click "Execute" to download and install the Products. After finishing the installation, click "Next".
+
+4. "Product Configuration" screen: See what products that will be configured. Click the "MySQL Server 8.0.23" option to configure the MySQL Server. Click the "Next" button. Choose the "Standalone MySQL Server/Classic MySQL Replication" option and click on the "Next" button. In page  "Type and Networking" set Config Type to "Development Computer" and "Connectivity" to "TCP/IP" and "Port" to "3006". Then, click the "Next" button.
+
+5. "Authentication Method" screen: Choose "Use Strong Password Encryption for Authentication". Click "Next".
+
+6. "Accounts and Roles" screen: Set a password for the root account. Click "Next".
+
+7. "Windows Service" screen: Here, you configure the Windows Service to start the server. Keep the default setup, then click "Next".
+
+8. "Apply Configuration" screen: Click the "Execute" button to apply the Server configuration. After finishing, click the "Finish" button.
+
+9. "Product Configuration" screen: See that the Product Configuration is completed. Keep the default setting and click on the "Next" and "Finish" button to complete the MySQL package installation.
+
+10. In the next screen, you can choose to configure the Router. Click on "Next", "Finish" and then click the "Next" button.
+
+11. "Connect To Server" screen: Type in the root password (from step 6). Click the "Check" button to check if the connection is successful or not. Click on the "Next" button.
+
+12. "Apply Configuration" screen: Select the options and click the "Execute" button. After finishing, click the "Finish" button.
+
+13. "Installation Complete" screen: The installation is complete. Click the "Finish" button.
+
+\\INSTALLATION OF EXTENSIONS IN VS CODE
+
+1. Using extensions in Visual Studio Code
+2. Find extensions to install using the Extensions view.
+3. Install an extension from the VS Code Extension Marketplace.
+4. See what features are added via the Features Contributions tab or Command Palette (Ctrl+Shift+P).
+5. See recommendations for other extensions.
